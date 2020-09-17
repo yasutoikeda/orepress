@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.scss"],"names":[],"mappings":"AAAA,GACE,cAAe,CACf,UAAW","file":"app.css","sourcesContent":["h1{\n  font-size: 30px;\n  color: blue;\n}"]}
